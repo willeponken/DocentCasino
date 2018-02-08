@@ -10,7 +10,7 @@ Komm zum die erste Spielnacht im Dozentvägen 20!
 
 För er icke-Tyskar, kom till den första Spielnacht hos oss i lägenhet 1001 på Docentvägen 20!
 
-Drop-in från och med 18:00.
+Välkommna den 24/2 2019, drop-in från och med 18:00.
 
 Här finnes snacks, sällskap och skön musik på halvpissiga högtalare!
 
