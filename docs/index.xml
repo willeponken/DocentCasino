@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docent Casino</title>
+    <link>http://docentcasino.club/</link>
+    <description>Recent content on Docent Casino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2018 18:04:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://docentcasino.club/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die erste Spielnacht @ DocentCasino.club</title>
+      <link>http://docentcasino.club/posts/spielnacht/</link>
+      <pubDate>Thu, 08 Feb 2018 18:04:49 +0100</pubDate>
+      
+      <guid>http://docentcasino.club/posts/spielnacht/</guid>
+      <description>Komm zum die erste Spielnacht im Dozentvägen 20!
+För er icke-Tyskar, kom till den första Spielnacht hos oss i lägenhet 1001 på Docentvägen 20!
+Drop-in från och med 18:00.
+Här finnes snacks, sällskap och skön musik på halvpissiga högtalare!
+Ta med er sällskapsspel eller spela något av dem vi erbjuder.
+Några frågor? Skriv gärna direkt i evenemanget, eller mejla oss på spielnacht@docentcasino.club
+Väl mött, från oss på Docent Casino!</description>
+    </item>
+    
+  </channel>
+</rss>
