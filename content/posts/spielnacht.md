@@ -16,6 +16,6 @@ Här finnes snacks, sällskap och skön musik på halvpissiga högtalare!
 
 Ta med er sällskapsspel eller spela något av dem vi erbjuder.
 
-Några frågor? Skriv gärna direkt i evenemanget, eller mejla oss på spielnacht@docentcasino.club
+Några frågor? Mejla oss på spielnacht@docentcasino.club
 
 Väl mött, från oss på Docent Casino!
