@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://casino.wstrm.dev/posts/spielnacht/</loc>
-    <lastmod>2018-02-08T18:04:49+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://casino.wstrm.dev/</loc>
-    <lastmod>2018-02-08T18:04:49+01:00</lastmod>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://casino.wstrm.dev/posts/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://casino.wstrm.dev/posts/spelkv%C3%A4ll/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://casino.wstrm.dev/posts/spielnacht/</loc>
     <lastmod>2018-02-08T18:04:49+01:00</lastmod>
   </url>
   
