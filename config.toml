@@ -1,4 +1,4 @@
-baseURL = "http://docentcasino.club/"
+baseURL = "https://casino.wstrm.dev/"
 languageCode = "en-us"
 title = "Docent Casino"
 theme = "ananke"
@@ -7,6 +7,6 @@ publishDir = "docs"
 [params]
 	favicon = ""
 	description = "The Docent Casino Club ™"
-	github = "https://github.com/willeponken/DocentCasino"
+	#github = "https://github.com/wstrm/DocentCasino"
 	background_color_class = "bg-black"
 	featured_image = "/images/bond-casino.jpg"
